@@ -1,2 +1,2 @@
-# Estudo-dirigido-03
-"Este repositório é para praticar fluxos na linguagem C e trabalhar com strings".
+# Estudos-dirigidos-linguagem-C
+"Este repositório contém exercícios da faculdade para aprendermos a Linguagem C e principalmente a lógica de programação".
